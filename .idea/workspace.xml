@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4597fd99-357c-4f3c-ae8b-07c43180f52d" name="Default Changelist" comment="alterado a primeira versão">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/App/Web/Task/Controllers/TaskController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/App/Web/Task/Controllers/TaskController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/App/Web/Task/Requests/TaskRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/App/Web/Task/Requests/TaskRequest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Domain/Task/Models/Task.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Domain/Task/Models/Task.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2021_04_28_143257_create_task_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_04_28_143257_create_task_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
-    </list>
+    <list default="true" id="4597fd99-357c-4f3c-ae8b-07c43180f52d" name="Default Changelist" comment="alterado a primeira versão" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +61,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="610">
-              <caret line="59" column="25" lean-forward="true" selection-start-line="59" selection-start-column="25" selection-end-line="59" selection-end-column="25" />
+            <state relative-caret-position="1121">
+              <caret line="59" column="25" selection-start-line="59" selection-start-column="25" selection-end-line="59" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -78,7 +71,7 @@
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -87,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/app/App/Web/Task/Controllers/TaskController.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="249">
-              <caret line="21" column="73" lean-forward="true" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="73" />
+              <caret line="21" column="73" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="73" />
               <folding>
                 <element signature="e#45#86#0#PHP" expanded="true" />
               </folding>
@@ -279,23 +272,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="structure-ddd-laravel-7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="structure-ddd-laravel-7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="structure-ddd-laravel-7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="structure-ddd-laravel-7" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -347,6 +325,7 @@
       <workItem from="1619580684400" duration="180000" />
       <workItem from="1619617881212" duration="17052000" />
       <workItem from="1619636040308" duration="1212000" />
+      <workItem from="1619637638625" duration="262000" />
     </task>
     <task id="LOCAL-00001" summary="alterado a primeira versão">
       <created>1619630542904</created>
@@ -359,12 +338,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18444000" />
+    <option name="totallyTimeSpent" value="18706000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49917355" visible="true" weight="0.29393938" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49917355" visible="true" weight="0.29848486" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" sideWeight="0.5008264" side_tool="true" weight="0.28939393" />
@@ -555,6 +534,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1121">
+          <caret line="59" column="25" selection-start-line="59" selection-start-column="25" selection-end-line="59" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/Domain/Task/TataTransferObject/TaskData.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -569,24 +562,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="610">
-          <caret line="59" column="25" lean-forward="true" selection-start-line="59" selection-start-column="25" selection-end-line="59" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/App/Web/Task/Controllers/TaskController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="249">
-          <caret line="21" column="73" lean-forward="true" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="73" />
+          <caret line="21" column="73" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="73" />
           <folding>
             <element signature="e#45#86#0#PHP" expanded="true" />
           </folding>
