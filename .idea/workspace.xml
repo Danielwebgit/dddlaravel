@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4597fd99-357c-4f3c-ae8b-07c43180f52d" name="Default Changelist" comment="alterado a primeira versão">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/App/Web/Task/Controllers/TaskController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/App/Web/Task/Controllers/TaskController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/App/Web/Task/Requests/TaskRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/App/Web/Task/Requests/TaskRequest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Domain/Task/Models/Task.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Domain/Task/Models/Task.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2021_04_28_143257_create_task_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_04_28_143257_create_task_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,8 +63,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="64" column="27" lean-forward="true" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
+            <state relative-caret-position="-3">
+              <caret line="60" column="27" lean-forward="true" selection-start-line="60" selection-start-column="27" selection-end-line="60" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -348,7 +343,7 @@
       <option name="presentableId" value="Default" />
       <updated>1619580683210</updated>
       <workItem from="1619580684400" duration="180000" />
-      <workItem from="1619617881212" duration="17468000" />
+      <workItem from="1619617881212" duration="18315000" />
     </task>
     <task id="LOCAL-00001" summary="alterado a primeira versão">
       <created>1619630542904</created>
@@ -361,13 +356,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17648000" />
+    <option name="totallyTimeSpent" value="18495000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49917355" visible="true" weight="0.28939393" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49917355" visible="true" weight="0.28939393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" sideWeight="0.5008264" side_tool="true" weight="0.28939393" />
@@ -383,7 +377,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3305785" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.19338843" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -597,8 +591,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="64" column="27" lean-forward="true" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
+        <state relative-caret-position="-3">
+          <caret line="60" column="27" lean-forward="true" selection-start-line="60" selection-start-column="27" selection-end-line="60" selection-end-column="27" />
         </state>
       </provider>
     </entry>
