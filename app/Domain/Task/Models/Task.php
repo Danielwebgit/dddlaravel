@@ -14,4 +14,6 @@ class Task extends Model
 
     protected $fillable = ['task','category'];
 
+
+
 }

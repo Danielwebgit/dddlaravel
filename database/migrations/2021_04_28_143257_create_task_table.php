@@ -17,7 +17,7 @@ class CreateTaskTable extends Migration
             $table->id();
             $table->string('task');
             $table->string('category');
-            $table->string('status');
+
 
             $table->timestamps();
         });
