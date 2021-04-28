@@ -13,7 +13,7 @@ final class CreateTaskAction
         return Task::create(
             [
                 'task' => $taskData->task,
-                'category' => $taskData->category
+                'category' => $taskData->category,
             ]
         );
     }
