@@ -21,9 +21,9 @@ class TaskController extends Controller
 
     public function store(TaskRequest $request, CreateTaskAction $action)
     {
-        $data=TaskData::fromRequest($request);
+        $dataForm=TaskData::fromRequest($request);
 
-        $action($data);
+        $action($dataForm);
 
         return back()->with(['success' => 'Tarefas realizadas com sucesso!']);
 
