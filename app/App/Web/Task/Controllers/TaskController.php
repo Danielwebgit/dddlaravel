@@ -25,7 +25,7 @@ class TaskController extends Controller
 
         $action($data);
 
-        return back()->with(['success' => 'Tarefa realizadass com sucessooosssss!']);
+        return back()->with(['success' => 'Tarefa realizadas com sucesso!']);
 
     }
 
