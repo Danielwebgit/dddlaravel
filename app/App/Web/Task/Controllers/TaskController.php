@@ -23,8 +23,6 @@ class TaskController extends Controller
     {
         $data=TaskData::fromRequest($request);
 
-
-
         $action($data);
 
         return back()->with(['success' => 'Tarefa realizada com sucesso!']);

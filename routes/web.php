@@ -16,6 +16,17 @@ use Illuminate\Support\Facades\Route;
 Route::namespace('\App\Web\Task\Controllers')->group(function (){
 
     Route::get('/','TaskController@index');
+
     Route::post('/task','TaskController@store');
+
+    Route::get('/teste',function (){
+
+        $variavel=200;
+
+        return [
+          'status' => 'Active',
+          'code' => $variavel
+        ];
+    });
 });
 
