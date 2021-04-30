@@ -14,7 +14,7 @@ class TaskController extends Controller
 
     public function index()
     {
-        $tasks=app(Task::class)->get();
+        app(Task::class)->get();
 
         return view('welcome');
     }
@@ -25,7 +25,7 @@ class TaskController extends Controller
 
         $action($data);
 
-        return back()->with(['success' => 'Tarefa realizada com sucessooosss!']);
+        return back()->with(['success' => 'Tarefa realizadass com sucessooosssss!']);
 
     }
 
