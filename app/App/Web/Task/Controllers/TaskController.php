@@ -14,18 +14,18 @@ class TaskController extends Controller
 
     public function index()
     {
-        app(Task::class)->get();
+        app(Task::class)->first();
 
         return view('welcome');
     }
 
     public function store(TaskRequest $request, CreateTaskAction $action)
     {
-        $dataForm=TaskData::fromRequest($request);
+        $dataForms=TaskData::fromRequest($request);
 
-        $action($dataForm);
+        $action($dataForms);
 
-        return back()->with(['success' => 'Tarefas realizadas com sucesso!']);
+        return back()->with(['success' => 'Tarefass realizadas com sucesso!']);
 
     }
 
